@@ -1,0 +1,4 @@
+OS command injection, simple case
+1. 
+
+1|whoami
